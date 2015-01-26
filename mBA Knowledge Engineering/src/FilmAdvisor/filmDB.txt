@@ -1,0 +1,322 @@
+Fight Club
+America
+Tense
+Protest
+Fighting
+David Fincher
+1999
+Snatch
+United Kingdom
+Pop
+Gangster
+Kidnapping
+Guy Ritchie
+2000
+Taxi Driver
+America
+Tense
+Protest
+Shooting
+Martin Scorsese
+1976
+A beautiful mind
+America
+Tense
+Schizoid
+Spies
+Ron Howard
+2001
+Matrix
+America
+Electronic
+messiah
+man versus machine
+Wachowski Brothers
+1999
+The good, the bad and the ugly
+Italy
+Classic
+harshness
+Good versus evil
+Sergio Leone
+1966
+the big lebowski
+America
+musical
+life choice
+heist
+Coen Brothers
+1998
+Pulp Fiction
+America
+Old Pop
+Discontinuity
+crime
+Quentin Tarantino
+1994
+Reservoir Dogs
+America
+Old Pop
+Discontinuity
+heist
+Quentin Tarantino
+1992
+Titanic
+America
+Pop
+Titanic
+Love
+James Cameron
+1997
+Notebook
+America
+Dramatic
+love
+Letters
+Nick Cassavetes
+2004
+the vow
+America
+Dramatic
+love
+Loss of memory
+Stuart Sender
+2012
+Home Alone
+America
+Lively
+Holiday
+Home Alone
+Chris Columbus
+1990
+Inception
+America
+tense
+Reality
+Dream within dreams
+Christopher Nolan
+2012
+Twilight
+America
+Pop
+love
+Vampires
+Catherine Hardwicke
+2008
+Run Lola, Run
+German
+Music
+Arthouse
+Time travel
+Tom Tywker
+1998
+The cove
+America
+docu
+docu
+Dolphin Fishing
+Louie Psihoyos
+2009
+Se7en
+America
+Tense
+Crime
+religous murders
+David Fincher
+1995
+Tangled
+America
+Musical
+fairytale
+Escape
+Nathan Greno
+2010
+Frozen
+America
+Musical
+fairytale
+it is not what it seems
+Chris Buck
+2013
+Battle Royale
+Japan
+Classic
+Youth
+Killing students
+Kinji Fukasaku
+2000
+the prestige
+America
+Dramtic
+Nothing is what it seems
+Illusionists 
+Christopher Nolan
+2006
+harry potter the philosopher's stone
+UK
+Classical
+Blockbuster
+Wizardry school
+Chris Columbus
+2001
+the Patriot
+America
+Classic
+war
+Loyalty during civil war
+unknown
+2001
+The gladiotor
+America
+Classic
+War
+Loyalty during civil war
+Roland Emmerich
+2000
+Lord of War
+America
+Tense
+Protest
+Guntrafficking
+Andrew Niccol
+2005
+Blood Diamond
+America
+Dramatic
+Protest
+Diamond trade
+Edward Zwick
+2006
+Black Hawk Down
+America
+Dramatic
+war
+Middle East War
+Ridley Scott
+2002
+Moulin Rouge
+America
+musical
+love
+Burlesque
+Baz Luhrmann
+2001
+The hobbit: an unexpected journey
+New-Zealand
+Classic
+Adaptation
+Reclaiming a mountain
+Peter Jackson
+2012
+Lord of the Rings
+New-Zealand
+Classic
+Adaptation
+Destroying a ring
+Peter Jackson
+2001
+Requiem for a Dream
+America
+Pop
+Drug abuse
+Multiple story telling
+Darren Afronsky
+2000
+The hurtlocker
+America
+Tense
+War
+War is bad mkay?
+Kathryn Bigelow
+2010
+Blair Witch Project
+America
+music
+handheld camera
+evil witch hunt
+Eduardo Sanchez, Daniel Myrick
+1999
+2001: A space odyssey
+America
+Classic
+Evolution
+Space faring
+Stanley Kubrick
+1968
+The yes men fix the world
+America
+pop
+Docu
+corporations
+the yes men
+2009
+Donnie Darko
+America
+tense
+Time travelling
+High school
+Richard Kelly
+2001
+Ted
+America
+pop
+growing up
+Talking teddy bear
+Seth Rogen
+2012
+The hangover
+America
+pop
+Friendship
+day after
+Todd Phillips
+2009
+Lord of the rings: The two towers
+New-Zealand
+Classic
+Adaptation
+Destroying a ring
+Peter Jackson
+2002
+Lord of the rings: The return of the king
+New-Zealand
+Classic
+Adaptation
+Destroying a ring
+Peter Jackson
+2003
+Star Wars: A new Hope
+America
+Classic
+Growing up
+Fighting off Evil
+George Lucas
+1977
+Star Wars: The empire strikes back
+America
+Classic
+Growing up
+Fighting off Evil
+George Lucas
+1980
+Star Wars: the return of the Jedi
+America
+Classic
+Growing up
+Fighting off Evil
+George Lucas
+1983
+Star Wars: the phantom menace
+America
+Classic
+Growing up
+Fighting off Evil
+George Lucas
+1999
+Star Wars: Attack of the clones 
+America
+Classic
+Growing up
+Fighting off Evil
+George Lucas
+2002
